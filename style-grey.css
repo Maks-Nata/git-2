@@ -1,3 +1,8 @@
 .box p{
   color: gray;
 }
+.big-box{
+  width: 400px
+;
+  height: 400px;
+}
